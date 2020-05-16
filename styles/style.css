@@ -1,3 +1,55 @@
+.header {
+  background-color: gray;
+  width: 100%;
+}
+.header-title {
+
+background-color: gray;
+height: 20px;
+align: bottom;  font-size: 2em;
+  align-content: center;
+  padding: 2px;
+}
+.menu-bar{
+  display: flex;
+  align-content: left;
+}
+.menu-icons {
+  width: 25px;
+  height: 25px;
+  padding: 1px;
+
+}
+.menu-input-1{
+  align-content: center;
+}
+#text-input-1{
+  align-content: center;
+  height: 15px;
+  width: 45vw;
+  margin-right: 0;
+  margin-left: auto;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 1px;
+}
+.menu-input-2{
+  align-content: right;
+}
+#text-input-1{
+  align-content: right;
+  height: 15px;
+  width: 10vw;
+}
+.footer{
+  background-color: gray;
+  height: 20px;
+  align: bottom;
+}
+
+
+/*
 a {
   text-decoration: none;
 }
@@ -5,3 +57,4 @@ a {
 a img {
   width: 50px;
 }
+*/
